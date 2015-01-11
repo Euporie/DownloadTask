@@ -1,2 +1,2 @@
 # DownloadTask
-DownloadTask for Android
+A simple download task for Android.
