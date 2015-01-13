@@ -1,8 +1,12 @@
-package so.libdvm.downloadtask;
+package so.libdvm.downloadtask.ui;
 
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
+
+import so.libdvm.downloadtask.R;
+import so.libdvm.downloadtask.R.layout;
+import so.libdvm.downloadtask.R.menu;
 
 public class MainActivity extends Activity {
 
